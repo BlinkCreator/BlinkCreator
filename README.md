@@ -1,11 +1,11 @@
-Kia Ora, 👋 I'm Michael O'Connor
-I'm a Penultimate year Computer Systems Engineering student at The University of Auckland. I work on projects involving Software Development and Computer Hardware.
+### Kia Ora 👋 My name is Michael O'Connor
+I am a Penultimate year Computer Systems Engineering student at The University of Auckland. I work on projects involving Software Development and Computer Hardware. 
 
-🌱 I’m currently learning about Software Architecture and Web-Dev.
-⚡ Languages: C, C++, Java, Python, JavaScript | Technologies: PyTorch, Jax Rs
-📫 How to reach me:
-Email: moco657@aucklanduni.ac.nz
-LinkedIn: https://www.linkedin.com/in/temanaaroha217/
+- 🌱 I’m currently learning about Software Architecture and Web-Dev. 
+- ⚡ **Languages**: C, C++, Java, Python, JavaScript | **Technologies**: PyTorch, Jax Rs
+- 📫 How to reach me: <br>Email: moco657@aucklanduni.ac.nz<br> LinkedIn: https://www.linkedin.com/in/temanaaroha217/
+
+[![Michael O'Connor's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BlinkCreator&show_icons=true)](https://github.com/BlinkCreator)
 <!--
 **BlinkCreator/BlinkCreator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
