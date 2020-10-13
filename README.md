@@ -1,9 +1,19 @@
-### Hi there 👋
+Kia Ora, 👋 I'm Michael O'Connor
+I'm a Penultimate year Computer Systems Engineering student at The University of Auckland. I work on projects involving Software Development and Computer Hardware.
 
+🌱 I’m currently learning about Software Architecture and Web-Dev.
+⚡ Languages: C, C++, Java, Python, JavaScript | Technologies: PyTorch, Jax Rs
+📫 How to reach me:
+Email: moco657@aucklanduni.ac.nz
+LinkedIn: https://www.linkedin.com/in/temanaaroha217/
 <!--
 **BlinkCreator/BlinkCreator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+
+
+
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
