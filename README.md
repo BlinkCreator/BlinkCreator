@@ -1,5 +1,5 @@
 ### Kia Ora 👋 My name is Michael O'Connor
-I am a final year Computer Systems Engineering student at The University of Auckland. I work on projects involving Software Development.
+I am a graduate Computer Systems Engineering student at The University of Auckland. I work on projects involving Software Development.
 
 - 🌱 I’m currently learning about Software Architecture and Machine learning. 
 - ⚡ **Languages**: JavaSript, C, C++, Java, Python, JavaScript | **Technologies**: PyTorch, Jax Rs, NPM
